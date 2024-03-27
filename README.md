@@ -8,3 +8,5 @@ The negative feedback loop is represented by a resistive network wich take the o
 The output stage is a push-pull pair of BJTs biased through a "super-diode" circuit which work in AB class.
 
 All the transistors work in forward active region.
+
+For this project I designed the PCB layout too. Taking into consider the placement of components using thermal and power disipation criterias and IPC standards.
